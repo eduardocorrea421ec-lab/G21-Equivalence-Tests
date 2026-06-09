@@ -1,3 +1,5 @@
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20618131.svg)](https://doi.org/10.5281/zenodo.20618131)
+
 # G21-Equivalence-Tests
 Code and data # Testes de Equivalência G21
 
