@@ -37,6 +37,6 @@ No generative AI used for core algorithms.
 
 # Acknowledgements
 
-We acknowledge LIGO Scientific Collaboration for open data via GWOSC.
+We acknowledge LIGO Scientific Collaboration for open data via GWOSC [@gwosc].
 
 # References
