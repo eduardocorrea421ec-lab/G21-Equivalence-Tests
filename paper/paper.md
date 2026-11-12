@@ -1,11 +1,11 @@
 ---
-title: "G21 Equivalence Tests Weak Equivalence Principle in Extreme Regimes"
-tags: [python, statistics, equivalence-principle, gravitational-physics]
+title: "G21 Equivalence Tests"
+tags: [python, statistics]
 authors:
     - name: Eduardo Correa
     affiliation: 1
 affiliations:
-    - name: Independent Researcher, Itatinga, Brazil
+    - name: Independent Researcher
     index: 1
 date: 12 November 2026
 bibliography: paper.bib
